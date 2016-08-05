@@ -1,5 +1,5 @@
 # SierpinskiGasket
 
-<img src="GeneratingScreenshot.png">
-<img src="HaltScreenshot.png">
-<img src="MaxSubdivisionScreenShot.png">
+<img src="GeneratingScreenshot.png" width=350>
+<img src="HaltScreenshot.png" width=350>
+<img src="MaxSubdivisionScreenShot.png" width=350>
